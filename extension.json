@@ -1,7 +1,7 @@
 {
     "id": "TinyMCE (v2)",
     "name": "TinyMCE (v2)",
-    "src": "https://kwp-contentful-tinymce.github.io/",
+    "src": "https://kwp-digital.github.io/",
     "fieldTypes": ["Text"],
     "parameters": {
         "installation": [
